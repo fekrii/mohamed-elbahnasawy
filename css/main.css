@@ -1199,6 +1199,7 @@ portofolio
   border-radius: 20px;
   position: relative;
   height: 300px;
+  border: 1px solid #35b5d2;
 }
 
 .portofolio-image .portofolio-content{
@@ -1308,6 +1309,17 @@ previuos-work
   opacity: 1;
 }
 
+
+
+
+
+
+
+/* 
+---------------------------------------------
+Team
+--------------------------------------------- 
+*/
 
 
 
