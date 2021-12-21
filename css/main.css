@@ -839,7 +839,7 @@ welcome area
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(../images/wave.svg);
+  background-image: url(../images/bg-2.svg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover; 
