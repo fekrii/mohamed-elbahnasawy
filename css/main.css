@@ -1395,6 +1395,13 @@ contact
   padding: 20px;
 }
 
+/* @media (max-width: 500px) {
+  .contact-executive {
+    font-size: 15px !important;
+  }
+} */
+
+
 /* 
 ---------------------------------------------
 footer
